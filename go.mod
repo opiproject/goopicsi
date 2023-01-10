@@ -3,7 +3,7 @@ module github.com/opiproject/goopicsi
 go 1.19
 
 require (
-	github.com/go-chi/chi v1.5.4
+	github.com/go-chi/chi/v4 v4.1.2+incompatible
 	github.com/google/uuid v1.3.0
 	github.com/lithammer/fuzzysearch v1.1.5
 	github.com/opiproject/opi-api v0.0.0-20230109175516-18c8c629ed6f
